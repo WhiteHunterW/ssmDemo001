@@ -1,0 +1,10 @@
+# /target
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.idea
+*.target
+dist
+build
+target
